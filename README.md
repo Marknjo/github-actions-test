@@ -1,2 +1,2 @@
-# github-actions-test
+# Testing Github Actions
 Testing Github Actions Workflows
